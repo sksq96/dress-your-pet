@@ -10,12 +10,13 @@ from pydantic import BaseModel
 class ImageGenerationRequest(BaseModel):
     prompt: str
     image: str
+    prompt_template: str
 
 image = modal.Image.debian_slim().pip_install("fastapi[standard]", "google-genai", "pillow", "requests")
 app = modal.App(name="gemini-image-generation", image=image)
 
 # Create client
-client = genai.Client(api_key='GEMINI_KEY_HERE')
+client = genai.Client(api_key='API_KEY')
 config = GenerateContentConfig(response_modalities=['Text', 'Image'])
 
 # Define Gemini model id 
@@ -26,9 +27,11 @@ model_id = "gemini-2.0-flash-exp-image-generation"
 def generate_image(request: ImageGenerationRequest):
     try:
         prompt = request.prompt
-        url = "https://raw.githubusercontent.com/sksq96/dress-your-pet/refs/heads/main/prompt.md"
-        prompt_template = requests.get(url).text
-        prompt = f"{prompt}\n\n{prompt_template}"
+        if request.prompt_template != '':
+            prompt_template = request.prompt_template
+            print(f"Prompt template: {prompt_template}")
+            url = f"https://raw.githubusercontent.com/sksq96/dress-your-pet/refs/heads/main/{prompt_template}.md"
+            prompt = requests.get(url).text
 
         image_base64 = request.image
         
