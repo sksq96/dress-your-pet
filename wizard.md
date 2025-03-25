@@ -1,1 +1,1 @@
-Dress the subject in a wizard costume
+Dress the subject in a hoodie
