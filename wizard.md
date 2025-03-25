@@ -1,1 +1,1 @@
-Add an orange
+Dress the animal up like a wizard
