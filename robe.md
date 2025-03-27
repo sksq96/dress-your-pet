@@ -1,1 +1,1 @@
-dress the animal up in bath robe
+Fit a bathrobe to the animal as it is. Keep everything else same as original
