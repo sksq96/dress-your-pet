@@ -1,1 +1,1 @@
-Dress the animal up like a wizard
+Fit a wizard outfit to the animal
