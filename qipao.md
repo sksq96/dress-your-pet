@@ -1,1 +1,1 @@
-Dress the animal up in a Chinese Qipao
+Fit a realistic Chinese Qipao to the animal as it is. Keep everything else same as original
