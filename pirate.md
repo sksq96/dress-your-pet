@@ -1,1 +1,1 @@
-dress the animal up like a pirate
+Fit a realistic pirate custome to the animal as it is. Keep everything else same as original
