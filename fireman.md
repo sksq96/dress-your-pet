@@ -1,1 +1,1 @@
-Give the animal a firefighter custume please.
+Give the animal a firefighter costume please.
