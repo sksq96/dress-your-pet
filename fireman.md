@@ -1,1 +1,1 @@
-Dress a realistic firefighter outfit to the original animal. Keep original face and posture.
+Contour fit a realistic firefighter outfit to the original animal. Keep original face and posture.
