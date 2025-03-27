@@ -1,1 +1,1 @@
-dress the animal up in a hoodie
+Fit a hoodie to the animal as it is. Keep everything else same as original
