@@ -1,1 +1,1 @@
-Dress the animal up like a wizard
+Dress the animal up like a fireman
