@@ -1,1 +1,1 @@
-Fit a realistic indian saree to the subject
+Add one indian saree
