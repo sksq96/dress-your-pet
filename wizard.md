@@ -1,1 +1,1 @@
-Fit a wizard outfit to the animal
+Fit a realistic wizard outfit to the animal as it is. Keep everything else same as original
