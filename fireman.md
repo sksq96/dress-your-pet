@@ -1,1 +1,1 @@
-Dress the subject up as a firefighter
+Give the animal a firefighter custume please.
