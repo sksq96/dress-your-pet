@@ -1,1 +1,1 @@
-Layer up a realistic firefighter outfit to the animal as it is. Keep the animal's original face and posture
+Layer up a realistic firefighter outfit to the animal as it is. Keep the animal's original face and posture as much as possible
