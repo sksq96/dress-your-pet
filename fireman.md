@@ -1,1 +1,1 @@
-Dress the original animal up as a firefighter
+Dress the subject up as a firefighter
