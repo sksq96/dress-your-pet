@@ -1,1 +1,1 @@
-Fit a hoodie to the animal as it is. Keep everything else same as original
+Layer up a hoodie to the animal as it is. Keep everything else same as original
