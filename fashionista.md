@@ -1,1 +1,1 @@
-Dress the animal up like a fashion icon
+Fit a fashionable outfit to the animal as it is. Keep everything else same as original
