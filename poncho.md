@@ -1,1 +1,1 @@
-Fit a south american poncho to the animal as it is. Keep everything else same as original
+Overlay a cute south american poncho naturally onto this specific animal. Keep facial expression, pose, and fur texture untouched. Just modify the outfit and nothing else. Photorealistic. Studio lighting
