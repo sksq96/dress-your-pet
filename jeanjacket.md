@@ -1,1 +1,0 @@
-Fit a realistic denim jacket to the animal as it is. Keep everything else same as original
