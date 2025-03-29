@@ -1,1 +1,1 @@
-Overlay a cute bathrobe naturally onto this specific animal. Keep facial expression, pose, and fur texture untouched. Just modify the outfit and nothing else. Photorealistic. Studio lighting
+Overlay a cute bathrobe naturally onto this specific animal. DO NOT CHANGE THE ANIMAL. Keep facial expression, pose, and fur texture untouched. Just modify the outfit and nothing else. Photorealistic. Studio lighting
